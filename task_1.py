@@ -1,6 +1,6 @@
 # Лабораторная №1: Первичная инициализация
 # Курс: Основы теории систем
-# Студент: Филимонов Артём Сергеевич 
+# Студент: Петров Артём Михайлович 
 
 def get_system_info():
     """
@@ -8,9 +8,9 @@ def get_system_info():
     """
     # TODO: Заполните словарь вашими реальными данными
     system_info = {
-        "student_name": "Филимонов Артём Сергеевич",
+        "student_name": "Петров Артём Михайлович",
         "academic_group": "ИВТИИбд-14",
-        "github_link": "https://github.com/artem322alt"
+        "github_link": "https://github.com/deside322"
     }
     return system_info
 
